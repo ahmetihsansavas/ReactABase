@@ -1,2 +1,2 @@
-# ReactAtlantisBase
-React Atlantis Base Project Template
+# ReactABase
+React A Base Project Template
